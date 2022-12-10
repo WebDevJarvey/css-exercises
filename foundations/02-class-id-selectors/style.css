@@ -1,0 +1,16 @@
+.odd {
+    background-color:pink ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.number {
+    font-size: 28px;
+}
+#even {
+    color: blue;
+    font-size: 36px;
+}
+#number {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
